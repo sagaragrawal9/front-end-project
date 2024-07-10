@@ -1,3 +1,3 @@
-#This is the Frontend project 
+This is the Frontend project 
 
-##Language used : HTML, CSS, JavaScript
+Language used : HTML, CSS, JavaScript
